@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class implements Serializable {
+public class Emp implements Serializable {
 	
 	private Integer empno;
 	private String ename;
